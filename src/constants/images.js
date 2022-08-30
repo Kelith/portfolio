@@ -17,6 +17,9 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
+import blockchain from '../assets/blockchain.png';
+import programmer from '../assets/programmer.gif';
+
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -39,6 +42,7 @@ const images = {
   email,
   mobile,
   api,
+  blockchain,
   cpp,
   css,
   figma,
@@ -55,6 +59,7 @@ const images = {
   sass,
   typescript,
   vue,
+  programmer,
   about01,
   about02,
   about03,
